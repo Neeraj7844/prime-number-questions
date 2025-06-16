@@ -34,7 +34,7 @@ int minsteps(int n)
     n=hf;
     return count;
  }
- int main()
+  int main()
 {
     cout<<isprime(12)<<" ";
     cout<<gd(12)<<" ";
